@@ -1,0 +1,855 @@
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        16] Hello!
+[        78] Found new resource fivem in C:/test\cfx-server-data-master/resources//fivem
+[        94] Found new resource fivem-awesome1501 in C:/test\cfx-server-data-master/resources//fivem-awesome1501
+[        94] Found new resource fivem-map-hipster in C:/test\cfx-server-data-master/resources//fivem-map-hipster
+[        94] Found new resource fivem-map-skater in C:/test\cfx-server-data-master/resources//fivem-map-skater
+[       109] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[       109] Found new resource runcode in C:/test\cfx-server-data-master/resources//runcode
+[       109] Found new resource race in C:/test\cfx-server-data-master/resources//[gamemodes]/race
+[       109] Found new resource race-test in C:/test\cfx-server-data-master/resources//[gamemodes]/race-test
+[       125] Found new resource channelfeed in C:/test\cfx-server-data-master/resources//[gameplay]/channelfeed
+[       125] Found new resource irc in C:/test\cfx-server-data-master/resources//[gameplay]/irc
+[       125] Found new resource obituary in C:/test\cfx-server-data-master/resources//[gameplay]/obituary
+[       141] Found new resource obituary-deaths in C:/test\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[       141] Found new resource playernames in C:/test\cfx-server-data-master/resources//[gameplay]/playernames
+[       141] Found new resource mapmanager in C:/test\cfx-server-data-master/resources//[managers]/mapmanager
+[       141] Found new resource baseevents in C:/test\cfx-server-data-master/resources//[system]/baseevents
+[       156] Found new resource chat in C:/test\cfx-server-data-master/resources//[system]/chat
+[       156] Found new resource hardcap in C:/test\cfx-server-data-master/resources//[system]/hardcap
+[       156] Found new resource rconlog in C:/test\cfx-server-data-master/resources//[system]/rconlog
+[       172] Found new resource scoreboard in C:/test\cfx-server-data-master/resources//[system]/scoreboard
+[       172] Found new resource sessionmanager in C:/test\cfx-server-data-master/resources//[system]/sessionmanager
+[       172] Found new resource spawnmanager in C:/test\cfx-server-data-master/resources//[system]/spawnmanager
+[       172] Found new resource betaguns in C:/test\cfx-server-data-master/resources//[test]/betaguns
+[       187] Found new resource gameInit in C:/test\cfx-server-data-master/resources//[test]/gameInit
+[       187] Found new resource keks in C:/test\cfx-server-data-master/resources//[test]/keks
+[       219] Started resource sessionmanager
+[      1797] Started resource mapmanager
+[      1797] Started resource chat
+[      1812] Started resource spawnmanager
+[      1812] Started gametype Freeroam
+[      1812] Started resource fivem
+[      1812] Started resource hardcap
+[      1828] Started resource rconlog
+[      1828] Started resource scoreboard
+[      1844] Started resource playernames
+[      1844] Authenticating server license key...
+[      2875] Server license key authentication succeeded. Welcome!
+[      2922] Sending heartbeat to live-internal.fivem.net:30110
+[      2922] Started map fivem-map-hipster
+[      2922] Started resource fivem-map-hipster
+[         0] Initializing Mono
+[        15] Initializing Mono completed
+[        15] Hello!
+[        78] Found new resource async in C:/test\cfx-server-data-master/resources//async
+[        93] Found new resource esplugin_mysql in C:/test\cfx-server-data-master/resources//esplugin_mysql
+[        93] Found new resource essentialmode in C:/test\cfx-server-data-master/resources//essentialmode
+[        93] Found new resource es_admin2 in C:/test\cfx-server-data-master/resources//es_admin2
+[       109] Found new resource es_extended in C:/test\cfx-server-data-master/resources//es_extended
+[       109] Found new resource fivem in C:/test\cfx-server-data-master/resources//fivem
+[       109] Found new resource fivem-awesome1501 in C:/test\cfx-server-data-master/resources//fivem-awesome1501
+[       109] Found new resource fivem-map-hipster in C:/test\cfx-server-data-master/resources//fivem-map-hipster
+[       125] Found new resource fivem-map-skater in C:/test\cfx-server-data-master/resources//fivem-map-skater
+[       125] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[       125] Found new resource mysql-async in C:/test\cfx-server-data-master/resources//mysql-async
+[       125] Found new resource runcode in C:/test\cfx-server-data-master/resources//runcode
+[       125] Found new resource race in C:/test\cfx-server-data-master/resources//[gamemodes]/race
+[       140] Found new resource race-test in C:/test\cfx-server-data-master/resources//[gamemodes]/race-test
+[       140] Found new resource channelfeed in C:/test\cfx-server-data-master/resources//[gameplay]/channelfeed
+[       140] Found new resource irc in C:/test\cfx-server-data-master/resources//[gameplay]/irc
+[       156] Found new resource obituary in C:/test\cfx-server-data-master/resources//[gameplay]/obituary
+[       156] Found new resource obituary-deaths in C:/test\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[       156] Found new resource playernames in C:/test\cfx-server-data-master/resources//[gameplay]/playernames
+[       171] Found new resource mapmanager in C:/test\cfx-server-data-master/resources//[managers]/mapmanager
+[       171] Found new resource baseevents in C:/test\cfx-server-data-master/resources//[system]/baseevents
+[       171] Found new resource chat in C:/test\cfx-server-data-master/resources//[system]/chat
+[       171] Found new resource hardcap in C:/test\cfx-server-data-master/resources//[system]/hardcap
+[       187] Found new resource rconlog in C:/test\cfx-server-data-master/resources//[system]/rconlog
+[       187] Found new resource scoreboard in C:/test\cfx-server-data-master/resources//[system]/scoreboard
+[       187] Found new resource sessionmanager in C:/test\cfx-server-data-master/resources//[system]/sessionmanager
+[       187] Found new resource spawnmanager in C:/test\cfx-server-data-master/resources//[system]/spawnmanager
+[       203] Found new resource betaguns in C:/test\cfx-server-data-master/resources//[test]/betaguns
+[       203] Found new resource gameInit in C:/test\cfx-server-data-master/resources//[test]/gameInit
+[       203] Found new resource keks in C:/test\cfx-server-data-master/resources//[test]/keks
+[       234] Started resource sessionmanager
+[       250] Started resource mapmanager
+[       250] Started resource chat
+[       250] Started resource spawnmanager
+[       265] Started gametype Freeroam
+[       265] Started resource fivem
+[       265] Started resource hardcap
+[       265] Started resource rconlog
+[       281] Started resource scoreboard
+[       281] Started resource playernames
+[       296] Started resource mysql-async
+[       312] Started resource async
+[       734] Loaded SQLite.net, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1674884457
+[       781] Loaded System.Data.SQLite, Version=1.0.109.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139 into ScriptDomain_1674884457
+[       921] Failed to instantiate instance of script SQLite.Main: System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.DllNotFoundException: SQLite.Interop.dll
+[       921]   at (wrapper managed-to-native) System.Data.SQLite.UnsafeNativeMethods:sqlite3_config_none (System.Data.SQLite.SQLiteConfigOpsEnum)
+[       921]   at System.Data.SQLite.SQLite3.StaticIsInitialized () [0x0001d] in <2dbd34e157eb4fefbab8047bc0d9632d>:0 
+[       921]   at System.Data.SQLite.SQLiteLog.Initialize (System.String className) [0x00026] in <2dbd34e157eb4fefbab8047bc0d9632d>:0 
+[       921]   at System.Data.SQLite.SQLiteConnection..ctor (System.String connectionString, System.Boolean parseViaFramework) [0x00046] in <2dbd34e157eb4fefbab8047bc0d9632d>:0 
+[       921]   at System.Data.SQLite.SQLiteConnection..ctor (System.String connectionString) [0x00000] in <2dbd34e157eb4fefbab8047bc0d9632d>:0 
+[       921]   at (wrapper remoting-invoke-with-check) System.Data.SQLite.SQLiteConnection:.ctor (string)
+[       921]   at SQLite.Main..ctor () [0x0001c] in <d9601824428540b9a7e0ba8d7ddf823e>:0 
+[       921]   at (wrapper managed-to-native) System.Reflection.MonoCMethod:InternalInvoke (System.Reflection.MonoCMethod,object,object[],System.Exception&)
+[       921]   at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00002] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[       921]    --- End of inner exception stack trace ---
+[       921]   at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00014] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[       921]   at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x000a8] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[       921]   at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[       921]   at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[       921]   at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[       921]   at System.Activator.CreateInstance (System.Type type) [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[       921]   at CitizenFX.Core.InternalManager.CreateAssemblyInternal (System.Byte[] assemblyData, System.Byte[] symbolData) [0x00069] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\InternalManager.cs:78 
+[       937] Started resource essentialmode
+[       953] Started resource esplugin_mysql
+[       984] Started resource es_admin2
+[       984] ^3Couldn't find resource es_extendednn.^7
+[       984] Authenticating server license key...
+[      2140] Server license key authentication succeeded. Welcome!
+[      2203] Sending heartbeat to live-internal.fivem.net:30110
+[      2218] Performing version check against: https://api.kanersps.pw/em/version?version=6.2.2&uuid=2fa441e3-c6ec-4b52-4b26-a75edd9d2a13
+[      2218] 
+[      2234] Started map fivem-map-skater
+[      2234] Started resource fivem-map-skater
+[      2906] 
+[      2906] [EssentialMode] Current version: 6.2.2
+[      2906] [EssentialMode] Updater version: 6.2.2
+[      2906] 
+[      2906] [EssentialMode] Everything is nice and updated!
+[      2906] 
+[      2906] ^1Advertisement: ^7Want to have EssentialMode pre-installed on a good and affordable server host? Go to the following link: https://zap-hosting.com/EssentialMode
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        16] Hello!
+[        47] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[        78] Found new resource async in C:/test\cfx-server-data-master/resources//async
+[        94] Found new resource esplugin_mysql in C:/test\cfx-server-data-master/resources//esplugin_mysql
+[        94] Found new resource essentialmode in C:/test\cfx-server-data-master/resources//essentialmode
+[        94] Found new resource es_admin2 in C:/test\cfx-server-data-master/resources//es_admin2
+[        94] Found new resource es_extended in C:/test\cfx-server-data-master/resources//es_extended
+[       109] Found new resource fivem in C:/test\cfx-server-data-master/resources//fivem
+[       109] Found new resource fivem-awesome1501 in C:/test\cfx-server-data-master/resources//fivem-awesome1501
+[       109] Found new resource fivem-map-hipster in C:/test\cfx-server-data-master/resources//fivem-map-hipster
+[       125] Found new resource fivem-map-skater in C:/test\cfx-server-data-master/resources//fivem-map-skater
+[       125] Found new resource mysql-async in C:/test\cfx-server-data-master/resources//mysql-async
+[       125] Found new resource runcode in C:/test\cfx-server-data-master/resources//runcode
+[       141] Found new resource race in C:/test\cfx-server-data-master/resources//[gamemodes]/race
+[       141] Found new resource race-test in C:/test\cfx-server-data-master/resources//[gamemodes]/race-test
+[       141] Found new resource channelfeed in C:/test\cfx-server-data-master/resources//[gameplay]/channelfeed
+[       141] Found new resource irc in C:/test\cfx-server-data-master/resources//[gameplay]/irc
+[       156] Found new resource obituary in C:/test\cfx-server-data-master/resources//[gameplay]/obituary
+[       156] Found new resource obituary-deaths in C:/test\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[       156] Found new resource playernames in C:/test\cfx-server-data-master/resources//[gameplay]/playernames
+[       172] Found new resource mapmanager in C:/test\cfx-server-data-master/resources//[managers]/mapmanager
+[       172] Found new resource baseevents in C:/test\cfx-server-data-master/resources//[system]/baseevents
+[       172] Found new resource chat in C:/test\cfx-server-data-master/resources//[system]/chat
+[       172] Found new resource hardcap in C:/test\cfx-server-data-master/resources//[system]/hardcap
+[       188] Found new resource rconlog in C:/test\cfx-server-data-master/resources//[system]/rconlog
+[       188] Found new resource scoreboard in C:/test\cfx-server-data-master/resources//[system]/scoreboard
+[       188] Found new resource sessionmanager in C:/test\cfx-server-data-master/resources//[system]/sessionmanager
+[       203] Found new resource spawnmanager in C:/test\cfx-server-data-master/resources//[system]/spawnmanager
+[       203] Found new resource betaguns in C:/test\cfx-server-data-master/resources//[test]/betaguns
+[       203] Found new resource gameInit in C:/test\cfx-server-data-master/resources//[test]/gameInit
+[       203] Found new resource keks in C:/test\cfx-server-data-master/resources//[test]/keks
+[       234] Started resource sessionmanager
+[       250] Started resource mapmanager
+[       250] Started resource chat
+[       266] Started resource spawnmanager
+[       266] Started gametype Freeroam
+[       266] Started resource fivem
+[       266] Started resource hardcap
+[       281] Started resource rconlog
+[       281] Started resource scoreboard
+[       281] Started resource playernames
+[       297] Started resource mysql-async
+[       313] Started resource async
+[       734] Loaded SQLite.net, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_321266494
+[       781] Loaded System.Data.SQLite, Version=1.0.109.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139 into ScriptDomain_321266494
+[       922] Failed to instantiate instance of script SQLite.Main: System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.DllNotFoundException: SQLite.Interop.dll
+[       922]   at (wrapper managed-to-native) System.Data.SQLite.UnsafeNativeMethods:sqlite3_config_none (System.Data.SQLite.SQLiteConfigOpsEnum)
+[       922]   at System.Data.SQLite.SQLite3.StaticIsInitialized () [0x0001d] in <2dbd34e157eb4fefbab8047bc0d9632d>:0 
+[       938]   at System.Data.SQLite.SQLiteLog.Initialize (System.String className) [0x00026] in <2dbd34e157eb4fefbab8047bc0d9632d>:0 
+[       938]   at System.Data.SQLite.SQLiteConnection..ctor (System.String connectionString, System.Boolean parseViaFramework) [0x00046] in <2dbd34e157eb4fefbab8047bc0d9632d>:0 
+[       938]   at System.Data.SQLite.SQLiteConnection..ctor (System.String connectionString) [0x00000] in <2dbd34e157eb4fefbab8047bc0d9632d>:0 
+[       938]   at (wrapper remoting-invoke-with-check) System.Data.SQLite.SQLiteConnection:.ctor (string)
+[       938]   at SQLite.Main..ctor () [0x0004f] in <d9601824428540b9a7e0ba8d7ddf823e>:0 
+[       938]   at (wrapper managed-to-native) System.Reflection.MonoCMethod:InternalInvoke (System.Reflection.MonoCMethod,object,object[],System.Exception&)
+[       938]   at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00002] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[       938]    --- End of inner exception stack trace ---
+[       938]   at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00014] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[       938]   at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x000a8] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[       938]   at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[       938]   at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[       938]   at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[       938]   at System.Activator.CreateInstance (System.Type type) [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[       938]   at CitizenFX.Core.InternalManager.CreateAssemblyInternal (System.Byte[] assemblyData, System.Byte[] symbolData) [0x00069] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\InternalManager.cs:78 
+[       953] Started resource essentialmode
+[       953] Started resource esplugin_mysql
+[       984] Started resource es_admin2
+[      1000] Error loading script config.weapons.lua in resource es_extended: config.weapons.lua:43: attempt to call a nil value (global 'GetHashKey')
+[      1000] stack traceback:
+[      1000] 	config.weapons.lua:43: in main chunk
+[      1000] Failed to load script config.weapons.lua.
+[      1047] Started resource es_extended
+[      1047] Authenticating server license key...
+[      2000] Server license key authentication succeeded. Welcome!
+[      2063] Sending heartbeat to live-internal.fivem.net:30110
+[      2063] Error resuming coroutine: @mysql-async/lib/MySQL.lua:191: attempt to call a nil value (global 'GetResourceState')
+[      2063] stack traceback:
+[      2063] 	@mysql-async/lib/MySQL.lua:191: in function <@mysql-async/lib/MySQL.lua:189>
+[      2078] Performing version check against: https://api.kanersps.pw/em/version?version=6.2.2&uuid=2fa441e3-c6ec-4b52-4b26-a75edd9d2a13
+[      2078] 
+[      2094] Started map fivem-map-skater
+[      2094] Started resource fivem-map-skater
+[      2656] 
+[      2656] [EssentialMode] Current version: 6.2.2
+[      2656] [EssentialMode] Updater version: 6.2.2
+[      2656] 
+[      2656] [EssentialMode] Everything is nice and updated!
+[      2656] 
+[      2672] ^1Advertisement: ^7Want to have EssentialMode pre-installed on a good and affordable server host? Go to the following link: https://zap-hosting.com/EssentialMode
+[    182094] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[        15] Initializing Mono completed
+[        15] Hello!
+[        62] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[        78] Found new resource async in C:/test\cfx-server-data-master/resources//async
+[        78] Found new resource esplugin_mysql in C:/test\cfx-server-data-master/resources//esplugin_mysql
+[        93] Found new resource essentialmode in C:/test\cfx-server-data-master/resources//essentialmode
+[        93] Found new resource es_admin2 in C:/test\cfx-server-data-master/resources//es_admin2
+[        93] Found new resource es_extended in C:/test\cfx-server-data-master/resources//es_extended
+[       109] Found new resource fivem in C:/test\cfx-server-data-master/resources//fivem
+[       109] Found new resource fivem-awesome1501 in C:/test\cfx-server-data-master/resources//fivem-awesome1501
+[       109] Found new resource fivem-map-hipster in C:/test\cfx-server-data-master/resources//fivem-map-hipster
+[       109] Found new resource fivem-map-skater in C:/test\cfx-server-data-master/resources//fivem-map-skater
+[       125] Found new resource mysql-async in C:/test\cfx-server-data-master/resources//mysql-async
+[       125] Found new resource runcode in C:/test\cfx-server-data-master/resources//runcode
+[       125] Found new resource race in C:/test\cfx-server-data-master/resources//[gamemodes]/race
+[       140] Found new resource race-test in C:/test\cfx-server-data-master/resources//[gamemodes]/race-test
+[       140] Found new resource channelfeed in C:/test\cfx-server-data-master/resources//[gameplay]/channelfeed
+[       140] Found new resource irc in C:/test\cfx-server-data-master/resources//[gameplay]/irc
+[       140] Found new resource obituary in C:/test\cfx-server-data-master/resources//[gameplay]/obituary
+[       156] Found new resource obituary-deaths in C:/test\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[       156] Found new resource playernames in C:/test\cfx-server-data-master/resources//[gameplay]/playernames
+[       156] Found new resource mapmanager in C:/test\cfx-server-data-master/resources//[managers]/mapmanager
+[       171] Found new resource baseevents in C:/test\cfx-server-data-master/resources//[system]/baseevents
+[       171] Found new resource chat in C:/test\cfx-server-data-master/resources//[system]/chat
+[       171] Found new resource hardcap in C:/test\cfx-server-data-master/resources//[system]/hardcap
+[       171] Found new resource rconlog in C:/test\cfx-server-data-master/resources//[system]/rconlog
+[       187] Found new resource scoreboard in C:/test\cfx-server-data-master/resources//[system]/scoreboard
+[       187] Found new resource sessionmanager in C:/test\cfx-server-data-master/resources//[system]/sessionmanager
+[       187] Found new resource spawnmanager in C:/test\cfx-server-data-master/resources//[system]/spawnmanager
+[       187] Found new resource betaguns in C:/test\cfx-server-data-master/resources//[test]/betaguns
+[       203] Found new resource gameInit in C:/test\cfx-server-data-master/resources//[test]/gameInit
+[       203] Found new resource keks in C:/test\cfx-server-data-master/resources//[test]/keks
+[       234] Started resource sessionmanager
+[       234] Started resource mapmanager
+[       250] Started resource chat
+[       250] Started resource spawnmanager
+[       250] Started gametype Freeroam
+[       250] Started resource fivem
+[       265] Started resource hardcap
+[       265] Started resource rconlog
+[       265] Started resource scoreboard
+[       281] Started resource playernames
+[       296] Started resource mysql-async
+[       296] Started resource async
+[       734] Loaded SQLite.net, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_679737002
+[       781] Loaded System.Data.SQLite, Version=1.0.109.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139 into ScriptDomain_679737002
+[       921] Failed to instantiate instance of script SQLite.Main: System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.DllNotFoundException: SQLite.Interop.dll
+[       921]   at (wrapper managed-to-native) System.Data.SQLite.UnsafeNativeMethods:sqlite3_config_none (System.Data.SQLite.SQLiteConfigOpsEnum)
+[       921]   at System.Data.SQLite.SQLite3.StaticIsInitialized () [0x0001d] in <2dbd34e157eb4fefbab8047bc0d9632d>:0 
+[       921]   at System.Data.SQLite.SQLiteLog.Initialize (System.String className) [0x00026] in <2dbd34e157eb4fefbab8047bc0d9632d>:0 
+[       921]   at System.Data.SQLite.SQLiteConnection..ctor (System.String connectionString, System.Boolean parseViaFramework) [0x00046] in <2dbd34e157eb4fefbab8047bc0d9632d>:0 
+[       921]   at System.Data.SQLite.SQLiteConnection..ctor (System.String connectionString) [0x00000] in <2dbd34e157eb4fefbab8047bc0d9632d>:0 
+[       921]   at (wrapper remoting-invoke-with-check) System.Data.SQLite.SQLiteConnection:.ctor (string)
+[       921]   at SQLite.Main..ctor () [0x0004f] in <d9601824428540b9a7e0ba8d7ddf823e>:0 
+[       921]   at (wrapper managed-to-native) System.Reflection.MonoCMethod:InternalInvoke (System.Reflection.MonoCMethod,object,object[],System.Exception&)
+[       921]   at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00002] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[       921]    --- End of inner exception stack trace ---
+[       921]   at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00014] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[       921]   at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x000a8] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[       921]   at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[       921]   at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[       921]   at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[       921]   at System.Activator.CreateInstance (System.Type type) [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[       921]   at CitizenFX.Core.InternalManager.CreateAssemblyInternal (System.Byte[] assemblyData, System.Byte[] symbolData) [0x00069] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\InternalManager.cs:78 
+[       953] Started resource essentialmode
+[       953] Started resource esplugin_mysql
+[       984] Started resource es_admin2
+[      1000] Error loading script config.weapons.lua in resource es_extended: config.weapons.lua:43: attempt to call a nil value (global 'GetHashKey')
+[      1000] stack traceback:
+[      1000] 	config.weapons.lua:43: in main chunk
+[      1000] Failed to load script config.weapons.lua.
+[      1031] Started resource es_extended
+[      1031] Authenticating server license key...
+[      1984] Server license key authentication succeeded. Welcome!
+[      2046] Sending heartbeat to live-internal.fivem.net:30110
+[      2046] Error resuming coroutine: @mysql-async/lib/MySQL.lua:191: attempt to call a nil value (global 'GetResourceState')
+[      2046] stack traceback:
+[      2046] 	@mysql-async/lib/MySQL.lua:191: in function <@mysql-async/lib/MySQL.lua:189>
+[      2078] Performing version check against: https://api.kanersps.pw/em/version?version=6.2.2&uuid=2fa441e3-c6ec-4b52-4b26-a75edd9d2a13
+[      2078] 
+[      2078] Started map fivem-map-skater
+[      2078] Started resource fivem-map-skater
+[      2750] 
+[      2750] [EssentialMode] Current version: 6.2.2
+[      2750] [EssentialMode] Updater version: 6.2.2
+[      2750] 
+[      2750] [EssentialMode] Everything is nice and updated!
+[      2750] 
+[      2750] ^1Advertisement: ^7Want to have EssentialMode pre-installed on a good and affordable server host? Go to the following link: https://zap-hosting.com/EssentialMode
+[    106546] Connecting: memozjust
+[    108203] Sending heartbeat to live-internal.fivem.net:30110
+[    156750] Sending heartbeat to live-internal.fivem.net:30110
+[    197765] Connecting: memozjust
+[    198593] Sending heartbeat to live-internal.fivem.net:30110
+[    227281] Error running system event handling function for resource esplugin_mysql: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: citizen:/scripting/lua/scheduler.lua:655: No such export mysql_fetch_all in resource mysql-async
+[    227281] stack traceback:
+[    227281] 	[C]: in function 'error'
+[    227281] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[    227281] 	@mysql-async/lib/MySQL.lua:147: in field 'fetchAll'
+[    227281] 	server.lua:15: in upvalue 'handler'
+[    227281] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[    227281] stack traceback:
+[    227281] 	[C]: in function 'error'
+[    227281] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[    227281] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[    242312] Error running call reference function for resource es_admin2: citizen:/scripting/lua/scheduler.lua:351: server.lua:176: attempt to index a nil value (local 'user')
+[    242312] stack traceback:
+[    242312] 	server.lua:176: in upvalue 'ref'
+[    242312] 	citizen:/scripting/lua/scheduler.lua:337: in function <citizen:/scripting/lua/scheduler.lua:336>
+[    242312] 	[C]: in function 'xpcall'
+[    242312] 	citizen:/scripting/lua/scheduler.lua:336: in function <citizen:/scripting/lua/scheduler.lua:335>
+[    242312] stack traceback:
+[    242312] 	[C]: in function 'error'
+[    242312] 	citizen:/scripting/lua/scheduler.lua:351: in function <citizen:/scripting/lua/scheduler.lua:322>
+[    242312] 	[C]: in function 'coroutine.resume'
+[    242312] 	citizen:/scripting/lua/scheduler.lua:34: in field 'CreateThreadNow'
+[    242312] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[    242343] Error running system event handling function for resource essentialmode: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: citizen:/scripting/lua/MessagePack.lua:830: missing bytes
+[    242343] stack traceback:
+[    242343] 	[C]: in function 'error'
+[    242343] 	citizen:/scripting/lua/MessagePack.lua:830: in method 'underflow'
+[    242343] 	citizen:/scripting/lua/MessagePack.lua:465: in field 'any'
+[    242343] 	citizen:/scripting/lua/MessagePack.lua:860: in field 'unpack'
+[    242343] 	citizen:/scripting/lua/scheduler.lua:563: in local 'cb'
+[    242343] 	server/player/login.lua:134: in upvalue 'handler'
+[    242343] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[    242343] stack traceback:
+[    242343] 	[C]: in function 'error'
+[    242343] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[    242343] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[    243359] Error running call reference function for resource es_admin2: citizen:/scripting/lua/scheduler.lua:351: server.lua:125: attempt to index a nil value (upvalue 'user')
+[    243359] stack traceback:
+[    243359] 	server.lua:125: in upvalue 'ref'
+[    243359] 	citizen:/scripting/lua/scheduler.lua:337: in function <citizen:/scripting/lua/scheduler.lua:336>
+[    243359] 	[C]: in function 'xpcall'
+[    243359] 	citizen:/scripting/lua/scheduler.lua:336: in function <citizen:/scripting/lua/scheduler.lua:335>
+[    243359] stack traceback:
+[    243359] 	[C]: in function 'error'
+[    243359] 	citizen:/scripting/lua/scheduler.lua:351: in function <citizen:/scripting/lua/scheduler.lua:322>
+[    243359] 	[C]: in function 'coroutine.resume'
+[    243359] 	citizen:/scripting/lua/scheduler.lua:34: in field 'CreateThreadNow'
+[    243359] 	citizen:/scripting/lua/scheduler.lua:335: in function <citizen:/scripting/lua/scheduler.lua:322>
+[    243359] 	[C]: in function 'coroutine.resume'
+[    243359] 	citizen:/scripting/lua/scheduler.lua:34: in field 'CreateThreadNow'
+[    243359] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[    243421] Error running system event handling function for resource essentialmode: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: citizen:/scripting/lua/MessagePack.lua:830: missing bytes
+[    243421] stack traceback:
+[    243421] 	[C]: in function 'error'
+[    243421] 	citizen:/scripting/lua/MessagePack.lua:830: in method 'underflow'
+[    243421] 	citizen:/scripting/lua/MessagePack.lua:465: in field 'any'
+[    243421] 	citizen:/scripting/lua/MessagePack.lua:860: in field 'unpack'
+[    243421] 	citizen:/scripting/lua/scheduler.lua:563: in local 'cb'
+[    243421] 	server/player/login.lua:134: in upvalue 'handler'
+[    243421] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[    243421] stack traceback:
+[    243421] 	[C]: in function 'error'
+[    243421] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[    243421] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[    243421] 	[C]: in function 'coroutine.resume'
+[    243421] 	citizen:/scripting/lua/scheduler.lua:34: in field 'CreateThreadNow'
+[    243421] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[    243562] Error running call reference function for resource es_admin2: citizen:/scripting/lua/scheduler.lua:351: server.lua:125: attempt to index a nil value (upvalue 'user')
+[    243562] stack traceback:
+[    243562] 	server.lua:125: in upvalue 'ref'
+[    243562] 	citizen:/scripting/lua/scheduler.lua:337: in function <citizen:/scripting/lua/scheduler.lua:336>
+[    243562] 	[C]: in function 'xpcall'
+[    243562] 	citizen:/scripting/lua/scheduler.lua:336: in function <citizen:/scripting/lua/scheduler.lua:335>
+[    243562] stack traceback:
+[    243562] 	[C]: in function 'error'
+[    243562] 	citizen:/scripting/lua/scheduler.lua:351: in function <citizen:/scripting/lua/scheduler.lua:322>
+[    243562] 	[C]: in function 'coroutine.resume'
+[    243562] 	citizen:/scripting/lua/scheduler.lua:34: in field 'CreateThreadNow'
+[    243562] 	citizen:/scripting/lua/scheduler.lua:335: in function <citizen:/scripting/lua/scheduler.lua:322>
+[    243562] 	[C]: in function 'coroutine.resume'
+[    243562] 	citizen:/scripting/lua/scheduler.lua:34: in field 'CreateThreadNow'
+[    243562] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[    243625] Error running system event handling function for resource essentialmode: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: citizen:/scripting/lua/MessagePack.lua:830: missing bytes
+[    243625] stack traceback:
+[    243625] 	[C]: in function 'error'
+[    243625] 	citizen:/scripting/lua/MessagePack.lua:830: in method 'underflow'
+[    243625] 	citizen:/scripting/lua/MessagePack.lua:465: in field 'any'
+[    243625] 	citizen:/scripting/lua/MessagePack.lua:860: in field 'unpack'
+[    243625] 	citizen:/scripting/lua/scheduler.lua:563: in local 'cb'
+[    243625] 	server/player/login.lua:134: in upvalue 'handler'
+[    243625] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[    243625] stack traceback:
+[    243625] 	[C]: in function 'error'
+[    243625] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[    243625] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[    243625] 	[C]: in function 'coroutine.resume'
+[    243625] 	citizen:/scripting/lua/scheduler.lua:34: in field 'CreateThreadNow'
+[    243625] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[    243687] Error running call reference function for resource es_admin2: citizen:/scripting/lua/scheduler.lua:351: server.lua:125: attempt to index a nil value (upvalue 'user')
+[    243687] stack traceback:
+[    243687] 	server.lua:125: in upvalue 'ref'
+[    243687] 	citizen:/scripting/lua/scheduler.lua:337: in function <citizen:/scripting/lua/scheduler.lua:336>
+[    243687] 	[C]: in function 'xpcall'
+[    243687] 	citizen:/scripting/lua/scheduler.lua:336: in function <citizen:/scripting/lua/scheduler.lua:335>
+[    243687] stack traceback:
+[    243687] 	[C]: in function 'error'
+[    243687] 	citizen:/scripting/lua/scheduler.lua:351: in function <citizen:/scripting/lua/scheduler.lua:322>
+[    243687] 	[C]: in function 'coroutine.resume'
+[    243687] 	citizen:/scripting/lua/scheduler.lua:34: in field 'CreateThreadNow'
+[    243687] 	citizen:/scripting/lua/scheduler.lua:335: in function <citizen:/scripting/lua/scheduler.lua:322>
+[    243687] 	[C]: in function 'coroutine.resume'
+[    243687] 	citizen:/scripting/lua/scheduler.lua:34: in field 'CreateThreadNow'
+[    243687] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[    243734] Error running system event handling function for resource essentialmode: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: citizen:/scripting/lua/MessagePack.lua:830: missing bytes
+[    243734] stack traceback:
+[    243734] 	[C]: in function 'error'
+[    243734] 	citizen:/scripting/lua/MessagePack.lua:830: in method 'underflow'
+[    243734] 	citizen:/scripting/lua/MessagePack.lua:465: in field 'any'
+[    243734] 	citizen:/scripting/lua/MessagePack.lua:860: in field 'unpack'
+[    243734] 	citizen:/scripting/lua/scheduler.lua:563: in local 'cb'
+[    243734] 	server/player/login.lua:134: in upvalue 'handler'
+[    243734] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[    243734] stack traceback:
+[    243734] 	[C]: in function 'error'
+[    243750] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[    243750] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[    243750] 	[C]: in function 'coroutine.resume'
+[    243750] 	citizen:/scripting/lua/scheduler.lua:34: in field 'CreateThreadNow'
+[    243750] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[    244015] Error running call reference function for resource es_admin2: citizen:/scripting/lua/scheduler.lua:351: server.lua:125: attempt to index a nil value (upvalue 'user')
+[    244015] stack traceback:
+[    244015] 	server.lua:125: in upvalue 'ref'
+[    244015] 	citizen:/scripting/lua/scheduler.lua:337: in function <citizen:/scripting/lua/scheduler.lua:336>
+[    244015] 	[C]: in function 'xpcall'
+[    244015] 	citizen:/scripting/lua/scheduler.lua:336: in function <citizen:/scripting/lua/scheduler.lua:335>
+[    244015] stack traceback:
+[    244015] 	[C]: in function 'error'
+[    244015] 	citizen:/scripting/lua/scheduler.lua:351: in function <citizen:/scripting/lua/scheduler.lua:322>
+[    244015] 	[C]: in function 'coroutine.resume'
+[    244015] 	citizen:/scripting/lua/scheduler.lua:34: in field 'CreateThreadNow'
+[    244015] 	citizen:/scripting/lua/scheduler.lua:335: in function <citizen:/scripting/lua/scheduler.lua:322>
+[    244015] 	[C]: in function 'coroutine.resume'
+[    244015] 	citizen:/scripting/lua/scheduler.lua:34: in field 'CreateThreadNow'
+[    244015] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[    244078] Error running system event handling function for resource essentialmode: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: citizen:/scripting/lua/MessagePack.lua:830: missing bytes
+[    244078] stack traceback:
+[    244078] 	[C]: in function 'error'
+[    244078] 	citizen:/scripting/lua/MessagePack.lua:830: in method 'underflow'
+[    244078] 	citizen:/scripting/lua/MessagePack.lua:465: in field 'any'
+[    244078] 	citizen:/scripting/lua/MessagePack.lua:860: in field 'unpack'
+[    244078] 	citizen:/scripting/lua/scheduler.lua:563: in local 'cb'
+[    244078] 	server/player/login.lua:134: in upvalue 'handler'
+[    244078] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[    244078] stack traceback:
+[    244078] 	[C]: in function 'error'
+[    244078] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[    244078] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[    244078] 	[C]: in function 'coroutine.resume'
+[    244078] 	citizen:/scripting/lua/scheduler.lua:34: in field 'CreateThreadNow'
+[    244078] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[    244156] Error running call reference function for resource es_admin2: citizen:/scripting/lua/scheduler.lua:351: server.lua:125: attempt to index a nil value (upvalue 'user')
+[    244171] stack traceback:
+[    244171] 	server.lua:125: in upvalue 'ref'
+[    244171] 	citizen:/scripting/lua/scheduler.lua:337: in function <citizen:/scripting/lua/scheduler.lua:336>
+[    244171] 	[C]: in function 'xpcall'
+[    244171] 	citizen:/scripting/lua/scheduler.lua:336: in function <citizen:/scripting/lua/scheduler.lua:335>
+[    244171] stack traceback:
+[    244171] 	[C]: in function 'error'
+[    244171] 	citizen:/scripting/lua/scheduler.lua:351: in function <citizen:/scripting/lua/scheduler.lua:322>
+[    244171] 	[C]: in function 'coroutine.resume'
+[    244171] 	citizen:/scripting/lua/scheduler.lua:34: in field 'CreateThreadNow'
+[    244171] 	citizen:/scripting/lua/scheduler.lua:335: in function <citizen:/scripting/lua/scheduler.lua:322>
+[    244171] 	[C]: in function 'coroutine.resume'
+[    244171] 	citizen:/scripting/lua/scheduler.lua:34: in field 'CreateThreadNow'
+[    244171] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[    244218] Error running system event handling function for resource essentialmode: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: citizen:/scripting/lua/MessagePack.lua:830: missing bytes
+[    244218] stack traceback:
+[    244218] 	[C]: in function 'error'
+[    244218] 	citizen:/scripting/lua/MessagePack.lua:830: in method 'underflow'
+[    244218] 	citizen:/scripting/lua/MessagePack.lua:465: in field 'any'
+[    244218] 	citizen:/scripting/lua/MessagePack.lua:860: in field 'unpack'
+[    244234] 	citizen:/scripting/lua/scheduler.lua:563: in local 'cb'
+[    244234] 	server/player/login.lua:134: in upvalue 'handler'
+[    244234] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[    244234] stack traceback:
+[    244234] 	[C]: in function 'error'
+[    244234] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[    244234] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[    244234] 	[C]: in function 'coroutine.resume'
+[    244234] 	citizen:/scripting/lua/scheduler.lua:34: in field 'CreateThreadNow'
+[    244234] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[    244421] Error running call reference function for resource es_admin2: citizen:/scripting/lua/scheduler.lua:351: server.lua:125: attempt to index a nil value (upvalue 'user')
+[    244421] stack traceback:
+[    244421] 	server.lua:125: in upvalue 'ref'
+[    244421] 	citizen:/scripting/lua/scheduler.lua:337: in function <citizen:/scripting/lua/scheduler.lua:336>
+[    244421] 	[C]: in function 'xpcall'
+[    244421] 	citizen:/scripting/lua/scheduler.lua:336: in function <citizen:/scripting/lua/scheduler.lua:335>
+[    244421] stack traceback:
+[    244421] 	[C]: in function 'error'
+[    244421] 	citizen:/scripting/lua/scheduler.lua:351: in function <citizen:/scripting/lua/scheduler.lua:322>
+[    244421] 	[C]: in function 'coroutine.resume'
+[    244421] 	citizen:/scripting/lua/scheduler.lua:34: in field 'CreateThreadNow'
+[    244421] 	citizen:/scripting/lua/scheduler.lua:335: in function <citizen:/scripting/lua/scheduler.lua:322>
+[    244421] 	[C]: in function 'coroutine.resume'
+[    244421] 	citizen:/scripting/lua/scheduler.lua:34: in field 'CreateThreadNow'
+[    244421] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[    244468] Error running system event handling function for resource essentialmode: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: citizen:/scripting/lua/MessagePack.lua:830: missing bytes
+[    244468] stack traceback:
+[    244468] 	[C]: in function 'error'
+[    244468] 	citizen:/scripting/lua/MessagePack.lua:830: in method 'underflow'
+[    244468] 	citizen:/scripting/lua/MessagePack.lua:465: in field 'any'
+[    244468] 	citizen:/scripting/lua/MessagePack.lua:860: in field 'unpack'
+[    244468] 	citizen:/scripting/lua/scheduler.lua:563: in local 'cb'
+[    244468] 	server/player/login.lua:134: in upvalue 'handler'
+[    244468] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[    244468] stack traceback:
+[    244468] 	[C]: in function 'error'
+[    244468] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[    244468] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[    244468] 	[C]: in function 'coroutine.resume'
+[    244468] 	citizen:/scripting/lua/scheduler.lua:34: in field 'CreateThreadNow'
+[    244468] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[    244609] Error running call reference function for resource es_admin2: citizen:/scripting/lua/scheduler.lua:351: server.lua:125: attempt to index a nil value (upvalue 'user')
+[    244609] stack traceback:
+[    244609] 	server.lua:125: in upvalue 'ref'
+[    244609] 	citizen:/scripting/lua/scheduler.lua:337: in function <citizen:/scripting/lua/scheduler.lua:336>
+[    244609] 	[C]: in function 'xpcall'
+[    244609] 	citizen:/scripting/lua/scheduler.lua:336: in function <citizen:/scripting/lua/scheduler.lua:335>
+[    244609] stack traceback:
+[    244609] 	[C]: in function 'error'
+[    244609] 	citizen:/scripting/lua/scheduler.lua:351: in function <citizen:/scripting/lua/scheduler.lua:322>
+[    244609] 	[C]: in function 'coroutine.resume'
+[    244609] 	citizen:/scripting/lua/scheduler.lua:34: in field 'CreateThreadNow'
+[    244609] 	citizen:/scripting/lua/scheduler.lua:335: in function <citizen:/scripting/lua/scheduler.lua:322>
+[    244609] 	[C]: in function 'coroutine.resume'
+[    244609] 	citizen:/scripting/lua/scheduler.lua:34: in field 'CreateThreadNow'
+[    244609] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[    244671] Error running system event handling function for resource essentialmode: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: citizen:/scripting/lua/MessagePack.lua:830: missing bytes
+[    244671] stack traceback:
+[    244671] 	[C]: in function 'error'
+[    244671] 	citizen:/scripting/lua/MessagePack.lua:830: in method 'underflow'
+[    244671] 	citizen:/scripting/lua/MessagePack.lua:465: in field 'any'
+[    244671] 	citizen:/scripting/lua/MessagePack.lua:860: in field 'unpack'
+[    244671] 	citizen:/scripting/lua/scheduler.lua:563: in local 'cb'
+[    244671] 	server/player/login.lua:134: in upvalue 'handler'
+[    244671] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[    244671] stack traceback:
+[    244671] 	[C]: in function 'error'
+[    244671] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[    244671] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[    244671] 	[C]: in function 'coroutine.resume'
+[    244671] 	citizen:/scripting/lua/scheduler.lua:34: in field 'CreateThreadNow'
+[    244671] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[    329281] Error running call reference function for resource es_admin2: citizen:/scripting/lua/scheduler.lua:351: server.lua:125: attempt to index a nil value (upvalue 'user')
+[    329281] stack traceback:
+[    329281] 	server.lua:125: in upvalue 'ref'
+[    329281] 	citizen:/scripting/lua/scheduler.lua:337: in function <citizen:/scripting/lua/scheduler.lua:336>
+[    329281] 	[C]: in function 'xpcall'
+[    329281] 	citizen:/scripting/lua/scheduler.lua:336: in function <citizen:/scripting/lua/scheduler.lua:335>
+[    329281] stack traceback:
+[    329281] 	[C]: in function 'error'
+[    329281] 	citizen:/scripting/lua/scheduler.lua:351: in function <citizen:/scripting/lua/scheduler.lua:322>
+[    329281] 	[C]: in function 'coroutine.resume'
+[    329281] 	citizen:/scripting/lua/scheduler.lua:34: in field 'CreateThreadNow'
+[    329281] 	citizen:/scripting/lua/scheduler.lua:335: in function <citizen:/scripting/lua/scheduler.lua:322>
+[    329281] 	[C]: in function 'coroutine.resume'
+[    329281] 	citizen:/scripting/lua/scheduler.lua:34: in field 'CreateThreadNow'
+[    329281] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[    329328] Error running system event handling function for resource essentialmode: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: citizen:/scripting/lua/MessagePack.lua:830: missing bytes
+[    329328] stack traceback:
+[    329328] 	[C]: in function 'error'
+[    329328] 	citizen:/scripting/lua/MessagePack.lua:830: in method 'underflow'
+[    329328] 	citizen:/scripting/lua/MessagePack.lua:465: in field 'any'
+[    329328] 	citizen:/scripting/lua/MessagePack.lua:860: in field 'unpack'
+[    329328] 	citizen:/scripting/lua/scheduler.lua:563: in local 'cb'
+[    329328] 	server/player/login.lua:134: in upvalue 'handler'
+[    329328] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[    329328] stack traceback:
+[    329328] 	[C]: in function 'error'
+[    329328] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[    329328] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[    329328] 	[C]: in function 'coroutine.resume'
+[    329328] 	citizen:/scripting/lua/scheduler.lua:34: in field 'CreateThreadNow'
+[    329328] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[    329390] Error running call reference function for resource es_admin2: citizen:/scripting/lua/scheduler.lua:351: server.lua:125: attempt to index a nil value (upvalue 'user')
+[    329390] stack traceback:
+[    329390] 	server.lua:125: in upvalue 'ref'
+[    329390] 	citizen:/scripting/lua/scheduler.lua:337: in function <citizen:/scripting/lua/scheduler.lua:336>
+[    329390] 	[C]: in function 'xpcall'
+[    329390] 	citizen:/scripting/lua/scheduler.lua:336: in function <citizen:/scripting/lua/scheduler.lua:335>
+[    329390] stack traceback:
+[    329390] 	[C]: in function 'error'
+[    329390] 	citizen:/scripting/lua/scheduler.lua:351: in function <citizen:/scripting/lua/scheduler.lua:322>
+[    329390] 	[C]: in function 'coroutine.resume'
+[    329390] 	citizen:/scripting/lua/scheduler.lua:34: in field 'CreateThreadNow'
+[    329390] 	citizen:/scripting/lua/scheduler.lua:335: in function <citizen:/scripting/lua/scheduler.lua:322>
+[    329390] 	[C]: in function 'coroutine.resume'
+[    329390] 	citizen:/scripting/lua/scheduler.lua:34: in field 'CreateThreadNow'
+[    329390] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[    329437] Error running system event handling function for resource essentialmode: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: citizen:/scripting/lua/MessagePack.lua:830: missing bytes
+[    329437] stack traceback:
+[    329437] 	[C]: in function 'error'
+[    329437] 	citizen:/scripting/lua/MessagePack.lua:830: in method 'underflow'
+[    329437] 	citizen:/scripting/lua/MessagePack.lua:465: in field 'any'
+[    329437] 	citizen:/scripting/lua/MessagePack.lua:860: in field 'unpack'
+[    329437] 	citizen:/scripting/lua/scheduler.lua:563: in local 'cb'
+[    329437] 	server/player/login.lua:134: in upvalue 'handler'
+[    329437] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[    329437] stack traceback:
+[    329437] 	[C]: in function 'error'
+[    329437] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[    329437] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[    329437] 	[C]: in function 'coroutine.resume'
+[    329437] 	citizen:/scripting/lua/scheduler.lua:34: in field 'CreateThreadNow'
+[    329437] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[    329500] Error running call reference function for resource es_admin2: citizen:/scripting/lua/scheduler.lua:351: server.lua:125: attempt to index a nil value (upvalue 'user')
+[    329500] stack traceback:
+[    329500] 	server.lua:125: in upvalue 'ref'
+[    329500] 	citizen:/scripting/lua/scheduler.lua:337: in function <citizen:/scripting/lua/scheduler.lua:336>
+[    329500] 	[C]: in function 'xpcall'
+[    329500] 	citizen:/scripting/lua/scheduler.lua:336: in function <citizen:/scripting/lua/scheduler.lua:335>
+[    329500] stack traceback:
+[    329500] 	[C]: in function 'error'
+[    329500] 	citizen:/scripting/lua/scheduler.lua:351: in function <citizen:/scripting/lua/scheduler.lua:322>
+[    329500] 	[C]: in function 'coroutine.resume'
+[    329500] 	citizen:/scripting/lua/scheduler.lua:34: in field 'CreateThreadNow'
+[    329500] 	citizen:/scripting/lua/scheduler.lua:335: in function <citizen:/scripting/lua/scheduler.lua:322>
+[    329500] 	[C]: in function 'coroutine.resume'
+[    329500] 	citizen:/scripting/lua/scheduler.lua:34: in field 'CreateThreadNow'
+[    329500] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[    329546] Error running system event handling function for resource essentialmode: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: citizen:/scripting/lua/MessagePack.lua:830: missing bytes
+[    329546] stack traceback:
+[    329546] 	[C]: in function 'error'
+[    329546] 	citizen:/scripting/lua/MessagePack.lua:830: in method 'underflow'
+[    329546] 	citizen:/scripting/lua/MessagePack.lua:465: in field 'any'
+[    329546] 	citizen:/scripting/lua/MessagePack.lua:860: in field 'unpack'
+[    329546] 	citizen:/scripting/lua/scheduler.lua:563: in local 'cb'
+[    329546] 	server/player/login.lua:134: in upvalue 'handler'
+[    329546] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[    329546] stack traceback:
+[    329546] 	[C]: in function 'error'
+[    329546] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[    329546] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[    329546] 	[C]: in function 'coroutine.resume'
+[    329546] 	citizen:/scripting/lua/scheduler.lua:34: in field 'CreateThreadNow'
+[    329546] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[    329703] Error running call reference function for resource es_admin2: citizen:/scripting/lua/scheduler.lua:351: server.lua:125: attempt to index a nil value (upvalue 'user')
+[    329703] stack traceback:
+[    329703] 	server.lua:125: in upvalue 'ref'
+[    329703] 	citizen:/scripting/lua/scheduler.lua:337: in function <citizen:/scripting/lua/scheduler.lua:336>
+[    329703] 	[C]: in function 'xpcall'
+[    329703] 	citizen:/scripting/lua/scheduler.lua:336: in function <citizen:/scripting/lua/scheduler.lua:335>
+[    329703] stack traceback:
+[    329703] 	[C]: in function 'error'
+[    329703] 	citizen:/scripting/lua/scheduler.lua:351: in function <citizen:/scripting/lua/scheduler.lua:322>
+[    329703] 	[C]: in function 'coroutine.resume'
+[    329703] 	citizen:/scripting/lua/scheduler.lua:34: in field 'CreateThreadNow'
+[    329703] 	citizen:/scripting/lua/scheduler.lua:335: in function <citizen:/scripting/lua/scheduler.lua:322>
+[    329703] 	[C]: in function 'coroutine.resume'
+[    329703] 	citizen:/scripting/lua/scheduler.lua:34: in field 'CreateThreadNow'
+[    329703] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[    329750] Error running system event handling function for resource essentialmode: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: citizen:/scripting/lua/MessagePack.lua:830: missing bytes
+[    329750] stack traceback:
+[    329750] 	[C]: in function 'error'
+[    329750] 	citizen:/scripting/lua/MessagePack.lua:830: in method 'underflow'
+[    329750] 	citizen:/scripting/lua/MessagePack.lua:465: in field 'any'
+[    329750] 	citizen:/scripting/lua/MessagePack.lua:860: in field 'unpack'
+[    329750] 	citizen:/scripting/lua/scheduler.lua:563: in local 'cb'
+[    329750] 	server/player/login.lua:134: in upvalue 'handler'
+[    329750] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[    329750] stack traceback:
+[    329750] 	[C]: in function 'error'
+[    329750] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[    329750] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[    329750] 	[C]: in function 'coroutine.resume'
+[    329750] 	citizen:/scripting/lua/scheduler.lua:34: in field 'CreateThreadNow'
+[    329750] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[    329859] Error running call reference function for resource es_admin2: citizen:/scripting/lua/scheduler.lua:351: server.lua:125: attempt to index a nil value (upvalue 'user')
+[    329859] stack traceback:
+[    329859] 	server.lua:125: in upvalue 'ref'
+[    329859] 	citizen:/scripting/lua/scheduler.lua:337: in function <citizen:/scripting/lua/scheduler.lua:336>
+[    329859] 	[C]: in function 'xpcall'
+[    329859] 	citizen:/scripting/lua/scheduler.lua:336: in function <citizen:/scripting/lua/scheduler.lua:335>
+[    329859] stack traceback:
+[    329859] 	[C]: in function 'error'
+[    329859] 	citizen:/scripting/lua/scheduler.lua:351: in function <citizen:/scripting/lua/scheduler.lua:322>
+[    329859] 	[C]: in function 'coroutine.resume'
+[    329859] 	citizen:/scripting/lua/scheduler.lua:34: in field 'CreateThreadNow'
+[    329859] 	citizen:/scripting/lua/scheduler.lua:335: in function <citizen:/scripting/lua/scheduler.lua:322>
+[    329859] 	[C]: in function 'coroutine.resume'
+[    329859] 	citizen:/scripting/lua/scheduler.lua:34: in field 'CreateThreadNow'
+[    329859] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[    329984] Error running system event handling function for resource essentialmode: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: citizen:/scripting/lua/MessagePack.lua:830: missing bytes
+[    329984] stack traceback:
+[    329984] 	[C]: in function 'error'
+[    329984] 	citizen:/scripting/lua/MessagePack.lua:830: in method 'underflow'
+[    329984] 	citizen:/scripting/lua/MessagePack.lua:465: in field 'any'
+[    329984] 	citizen:/scripting/lua/MessagePack.lua:860: in field 'unpack'
+[    329984] 	citizen:/scripting/lua/scheduler.lua:563: in local 'cb'
+[    329984] 	server/player/login.lua:134: in upvalue 'handler'
+[    329984] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[    329984] stack traceback:
+[    329984] 	[C]: in function 'error'
+[    329984] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[    329984] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[    329984] 	[C]: in function 'coroutine.resume'
+[    329984] 	citizen:/scripting/lua/scheduler.lua:34: in field 'CreateThreadNow'
+[    329984] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[    330000] hitch warning: frame time of 186 milliseconds
+[    378640] Sending heartbeat to live-internal.fivem.net:30110
+[    558687] Sending heartbeat to live-internal.fivem.net:30110
+[    601015] [SAVED] All players
+[    738718] Sending heartbeat to live-internal.fivem.net:30110
+[    918765] Sending heartbeat to live-internal.fivem.net:30110
+[   1098796] Sending heartbeat to live-internal.fivem.net:30110
+[   1201031] [SAVED] All players
+[   1278828] Sending heartbeat to live-internal.fivem.net:30110
+[   1458859] Sending heartbeat to live-internal.fivem.net:30110
+[   1638875] Sending heartbeat to live-internal.fivem.net:30110
+[   1801046] [SAVED] All players
+[   1818906] Sending heartbeat to live-internal.fivem.net:30110
+[   1938078] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        16] Hello!
+[        63] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[        94] Found new resource async in C:/test\cfx-server-data-master/resources//async
+[       125] Found new resource esplugin_mysql in C:/test\cfx-server-data-master/resources//esplugin_mysql
+[       125] Found new resource essentialmode in C:/test\cfx-server-data-master/resources//essentialmode
+[       141] Found new resource esx_billing in C:/test\cfx-server-data-master/resources//esx_billing
+[       141] Found new resource esx_datastore in C:/test\cfx-server-data-master/resources//esx_datastore
+[       156] Found new resource esx_policejob in C:/test\cfx-server-data-master/resources//esx_policejob
+[       156] Found new resource esx_society in C:/test\cfx-server-data-master/resources//esx_society
+[       156] Found new resource es_admin2 in C:/test\cfx-server-data-master/resources//es_admin2
+[       188] Found new resource es_extended in C:/test\cfx-server-data-master/resources//es_extended
+[       203] Found new resource fivem in C:/test\cfx-server-data-master/resources//fivem
+[       219] Found new resource fivem-awesome1501 in C:/test\cfx-server-data-master/resources//fivem-awesome1501
+[       219] Found new resource fivem-map-hipster in C:/test\cfx-server-data-master/resources//fivem-map-hipster
+[       219] Found new resource fivem-map-skater in C:/test\cfx-server-data-master/resources//fivem-map-skater
+[       219] Found new resource mysql-async in C:/test\cfx-server-data-master/resources//mysql-async
+[       250] Found new resource runcode in C:/test\cfx-server-data-master/resources//runcode
+[       250] Found new resource race in C:/test\cfx-server-data-master/resources//[gamemodes]/race
+[       250] Found new resource race-test in C:/test\cfx-server-data-master/resources//[gamemodes]/race-test
+[       266] Found new resource channelfeed in C:/test\cfx-server-data-master/resources//[gameplay]/channelfeed
+[       266] Found new resource irc in C:/test\cfx-server-data-master/resources//[gameplay]/irc
+[       266] Found new resource obituary in C:/test\cfx-server-data-master/resources//[gameplay]/obituary
+[       281] Found new resource obituary-deaths in C:/test\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[       281] Found new resource playernames in C:/test\cfx-server-data-master/resources//[gameplay]/playernames
+[       297] Found new resource mapmanager in C:/test\cfx-server-data-master/resources//[managers]/mapmanager
+[       313] Found new resource baseevents in C:/test\cfx-server-data-master/resources//[system]/baseevents
+[       313] Found new resource chat in C:/test\cfx-server-data-master/resources//[system]/chat
+[       328] Found new resource hardcap in C:/test\cfx-server-data-master/resources//[system]/hardcap
+[       328] Found new resource rconlog in C:/test\cfx-server-data-master/resources//[system]/rconlog
+[       344] Found new resource scoreboard in C:/test\cfx-server-data-master/resources//[system]/scoreboard
+[       359] Found new resource sessionmanager in C:/test\cfx-server-data-master/resources//[system]/sessionmanager
+[       359] Found new resource spawnmanager in C:/test\cfx-server-data-master/resources//[system]/spawnmanager
+[       359] Found new resource betaguns in C:/test\cfx-server-data-master/resources//[test]/betaguns
+[       375] Found new resource gameInit in C:/test\cfx-server-data-master/resources//[test]/gameInit
+[       375] Found new resource keks in C:/test\cfx-server-data-master/resources//[test]/keks
+[       484] Started resource sessionmanager
+[       609] Started resource mapmanager
+[       688] Started resource chat
+[       703] Started resource spawnmanager
+[       703] Started gametype Freeroam
+[       703] Started resource fivem
+[       734] Started resource hardcap
+[       766] Started resource rconlog
+[       813] Started resource scoreboard
+[       859] Started resource playernames
+[       922] Started resource mysql-async
+[       953] Started resource async
+[      1422] Loaded SQLite.net, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_240399342
+[      1469] Loaded System.Data.SQLite, Version=1.0.109.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139 into ScriptDomain_240399342
+[      1625] Failed to instantiate instance of script SQLite.Main: System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.DllNotFoundException: SQLite.Interop.dll
+[      1625]   at (wrapper managed-to-native) System.Data.SQLite.UnsafeNativeMethods:sqlite3_config_none (System.Data.SQLite.SQLiteConfigOpsEnum)
+[      1625]   at System.Data.SQLite.SQLite3.StaticIsInitialized () [0x0001d] in <2dbd34e157eb4fefbab8047bc0d9632d>:0 
+[      1625]   at System.Data.SQLite.SQLiteLog.Initialize (System.String className) [0x00026] in <2dbd34e157eb4fefbab8047bc0d9632d>:0 
+[      1625]   at System.Data.SQLite.SQLiteConnection..ctor (System.String connectionString, System.Boolean parseViaFramework) [0x00046] in <2dbd34e157eb4fefbab8047bc0d9632d>:0 
+[      1625]   at System.Data.SQLite.SQLiteConnection..ctor (System.String connectionString) [0x00000] in <2dbd34e157eb4fefbab8047bc0d9632d>:0 
+[      1625]   at (wrapper remoting-invoke-with-check) System.Data.SQLite.SQLiteConnection:.ctor (string)
+[      1625]   at SQLite.Main..ctor () [0x0004f] in <d9601824428540b9a7e0ba8d7ddf823e>:0 
+[      1625]   at (wrapper managed-to-native) System.Reflection.MonoCMethod:InternalInvoke (System.Reflection.MonoCMethod,object,object[],System.Exception&)
+[      1625]   at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00002] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      1625]    --- End of inner exception stack trace ---
+[      1625]   at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00014] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      1625]   at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x000a8] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      1625]   at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      1625]   at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      1625]   at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      1625]   at System.Activator.CreateInstance (System.Type type) [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      1625]   at CitizenFX.Core.InternalManager.CreateAssemblyInternal (System.Byte[] assemblyData, System.Byte[] symbolData) [0x00069] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\InternalManager.cs:78 
+[      1703] Started resource essentialmode
+[      1750] Started resource esplugin_mysql
+[      1813] Started resource es_admin2
+[      1922] Error loading script config.weapons.lua in resource es_extended: config.weapons.lua:43: attempt to call a nil value (global 'GetHashKey')
+[      1922] stack traceback:
+[      1922] 	config.weapons.lua:43: in main chunk
+[      1922] Failed to load script config.weapons.lua.
+[      2078] Started resource es_extended
+[      2094] Started resource esx_billing
+[      2109] Started resource esx_datastore
+[      2109] Could not find dependency cron for resource esx_society.
+[      2109] ^3Couldn't start resource esx_society.^7
+[      2125] Started resource esx_policejob
+[      2125] Authenticating server license key...
+[      3250] Server license key authentication succeeded. Welcome!
+[      3313] Sending heartbeat to live-internal.fivem.net:30110
+[      3328] Performing version check against: https://api.kanersps.pw/em/version?version=6.2.2&uuid=2fa441e3-c6ec-4b52-4b26-a75edd9d2a13
+[      3328] 
+[      3344] Error resuming coroutine: @mysql-async/lib/MySQL.lua:191: attempt to call a nil value (global 'GetResourceState')
+[      3344] stack traceback:
+[      3344] 	@mysql-async/lib/MySQL.lua:191: in function <@mysql-async/lib/MySQL.lua:189>
+[      3344] Error resuming coroutine: @mysql-async/lib/MySQL.lua:191: attempt to call a nil value (global 'GetResourceState')
+[      3344] stack traceback:
+[      3344] 	@mysql-async/lib/MySQL.lua:191: in function <@mysql-async/lib/MySQL.lua:189>
+[      3375] Started map fivem-map-skater
+[      3391] Started resource fivem-map-skater
+[      3953] 
+[      3953] [EssentialMode] Current version: 6.2.2
+[      3953] [EssentialMode] Updater version: 6.2.2
+[      3953] 
+[      3969] [EssentialMode] Everything is nice and updated!
+[      3969] 
+[      3969] ^1Advertisement: ^7Want to have EssentialMode pre-installed on a good and affordable server host? Go to the following link: https://zap-hosting.com/EssentialMode
+[     44500] Connecting: memozjust
+[     45594] Sending heartbeat to live-internal.fivem.net:30110
+[     85984] Error running system event handling function for resource esplugin_mysql: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: citizen:/scripting/lua/scheduler.lua:655: No such export mysql_fetch_all in resource mysql-async
+[     85984] stack traceback:
+[     85984] 	[C]: in function 'error'
+[     85984] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[     85984] 	@mysql-async/lib/MySQL.lua:147: in field 'fetchAll'
+[     85984] 	server.lua:15: in upvalue 'handler'
+[     85984] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[     85984] stack traceback:
+[     85984] 	[C]: in function 'error'
+[     85984] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[     85984] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[    225641] Sending heartbeat to live-internal.fivem.net:30110
+[    405672] Sending heartbeat to live-internal.fivem.net:30110
+[    585688] Sending heartbeat to live-internal.fivem.net:30110
+[    602000] [SAVED] All players
+[    765797] Sending heartbeat to live-internal.fivem.net:30110
+[    945828] Sending heartbeat to live-internal.fivem.net:30110
+[   1051484] Sending heartbeat to live-internal.fivem.net:30110
